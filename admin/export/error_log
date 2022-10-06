@@ -1,0 +1,6 @@
+[09-Sep-2022 17:15:58 America/Guayaquil] PHP Notice:  Undefined index: eventos in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
+[09-Sep-2022 17:15:58 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
+[10-Sep-2022 09:02:32 America/Guayaquil] PHP Notice:  Undefined index: eventos in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
+[10-Sep-2022 09:02:32 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
+[10-Sep-2022 09:03:15 America/Guayaquil] PHP Notice:  Undefined index: eventos in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
+[10-Sep-2022 09:03:15 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/robregon/public_html/admin/export/export_data_registrados_inactivos.php on line 91
